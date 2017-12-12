@@ -7,4 +7,3 @@ As OpenCV does not comes with extra modules like face recognition,etc we need to
 
     import cv2
     print cv2.__version__
-
